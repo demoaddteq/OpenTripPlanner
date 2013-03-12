@@ -215,7 +215,7 @@ background-image: url(images/ui/buttons/systemmap.png)!important;
 }
 
 #tp-accordion .x-panel-body {
-    background-color: blue;
+    background-color: red;
     border-color: #D0D0D0;
 }
 
